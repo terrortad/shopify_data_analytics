@@ -1,38 +1,40 @@
 # shopify_data_analytics
 
-**# Kids Resale Items Analysis Project **
+# Kids Resale Items Analysis Project
 
-**## Unveiling Insights from Over 13,000 Resale Items **
+## **Creating Insights from a shopify csv dataset.**
 
-This project dives into the world of kids' resale items, aiming to extract valuable insights from a comprehensive dataset of over 13,000 rows. By exploring relationships between attributes like brand, condition, item type, and price, we seek to create informed pricing strategies and efficient inventory management.
+This project dives into the world of kids' resale items, aiming to extract insights from a comprehensive dataset of over 13,000 rows. By exploring relationships between attributes like brand, condition, item type, and price, we seek to create informed pricing strategies and efficient inventory management.
 
-✨ Files in the Repository ✨
+### ✨ **Files in the Repository** ✨
 
-app.py: Interact with a user-friendly Streamlit app to discover item prices based on your preferred filters
-data_visualization.py: Uncover hidden patterns through insightful scatter plots that visualize relationships between variables and item prices
-data_visualization_normalized.py: Explore visual perspectives that account for data scale variations using normalized data
-data_preprocessing.py: Ensure data integrity with meticulous cleaning and preprocessing techniques
-feature_eng.py: Enhance analysis capabilities by extracting and categorizing item types from product titles ️
-modify_dataset.py: Streamline analysis and interpretation by simplifying condition data ✂️
-** Installation and Takeoff **
+- **`app.py`:** Interact with a user-friendly Streamlit app to discover item prices based on your preferred filters.
+- **`data_visualization.py`:** Create scatter plots that visualize relationships between variables and item prices.
+- **`data_visualization_normalized.py`:** Explore visual perspectives that account for data scale variations using normalized data.
+- **`data_preprocessing.py`:** Ensure data integrity with data cleaning and preprocessing techniques.
+- **`feature_eng.py`:** Enhance analysis capabilities by extracting and categorizing item types from product titles.
+- **`modify_dataset.py`:** Simplifying condition data only.
 
-Prerequisites:
+### ✂️ **Installationf**
 
-Python 3.x (ready for launch )
-Required packages: pandas, plotly, streamlit (install using pip install pandas plotly streamlit)
-Steps to Run:
+**Prerequisites:**
 
-Clone the repository: git clone https://github.com/terrortad/shopify_data_analytics.git
-Navigate to the cloned directory: cd shopify_data_analytics
-Initiate the Streamlit app: streamlit run app.py
-Witness the app's grand opening in your default web browser
-**Exploration Awaits **
+- **Python 3.x:** 
+- **Required packages:** pandas, plotly, streamlit (install using `pip install pandas plotly streamlit`).
 
-Streamlit App (app.py):
+**Steps to Run:**
 
-Embark on an interactive journey by filtering items based on brand, condition, item type, and size
-Discover tailored results that align with your preferences ✨
-Visualization Scripts:
+1. **Clone the repository:** `git clone https://github.com/terrortad/shopify_data_analytics.git`
+2. **Navigate to the cloned directory:** `cd shopify_data_analytics`
+3. **Initiate the Streamlit app:** `streamlit run app.py`
+4. **Witness the app's grand opening in your default web browser.**
 
-Generate eye-opening scatter plots using data_visualization.py or data_visualization_normalized.py
-Embark on a visual voyage of data exploration and analysis
+### **🌟 Exploration Awaits 🌟**
+
+**Streamlit App (`app.py`):**
+- Discover tailored results that align with your preferences.
+
+**✨ Visualization Scripts:**
+
+- Generate scatter plots using `data_visualization.py` or `data_visualization_normalized.py`.
+
