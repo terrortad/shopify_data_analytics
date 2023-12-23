@@ -9,7 +9,7 @@ import pandas as pd
 import plotly.express as px
 
 # Load dataset
-data = pd.read_csv(r'C:\Users\magic\Desktop\data structures\DE project\products_export_1-2.csv')
+data = pd.read_csv(r'\Users\Your\Path\To\products_export_1-2.csv')
 
 # Filter active listings
 active_listings = data[data['Status'] == 'active']

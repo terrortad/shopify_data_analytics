@@ -4,7 +4,7 @@ from sklearn.preprocessing import MinMaxScaler
 
 
 # Load the dataset
-data = pd.read_csv(r'C:\Users\magic\Desktop\data structures\DE project\products_export_1-2.csv')
+data = pd.read_csv(r'C:\Users\Your\Path\To\products_export_1-2.csv')
 
 # Filter for active listings
 active_listings = data[data['Status'] == 'active']

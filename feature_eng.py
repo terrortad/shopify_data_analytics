@@ -2,14 +2,14 @@ import re
 import pandas as pd
 
 # Load the original dataset
-data = pd.read_csv(r'C:\Users\magic\Desktop\data structures\DE project\products_export_1-2.csv')
+data = pd.read_csv(r'C:\Users\Your\Path\To\products_export_1-2.csv')
 
 def categorize_by_title(title):
     '''Function to categorize item type based on the title'''
     if pd.isna(title):
         return 'Unknown'  # default category for missing titles
     title_lower = title.lower()
-    
+
     if 'toy' in title_lower:
         return 'Toys'
     elif any(word in title_lower for word in ['top', 'shirt', 't-shirt', 'blouse']):
