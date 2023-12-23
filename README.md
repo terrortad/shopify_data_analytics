@@ -15,7 +15,7 @@ This project dives into the world of kids' resale items, aiming to extract insig
 - **`feature_eng.py`:** Enhance analysis capabilities by extracting and categorizing item types from product titles.
 - **`modify_dataset.py`:** Simplifying condition data only.
 
-### ✂️ **Installationf**
+### ✂️ **Installation**
 
 **Prerequisites:**
 
@@ -28,8 +28,6 @@ This project dives into the world of kids' resale items, aiming to extract insig
 2. **Navigate to the cloned directory:** `cd shopify_data_analytics`
 3. **Initiate the Streamlit app:** `streamlit run app.py`
 4. **Witness the app's grand opening in your default web browser.**
-
-### **🌟 Exploration Awaits 🌟**
 
 **Streamlit App (`app.py`):**
 - Discover tailored results that align with your preferences.
