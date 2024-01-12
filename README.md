@@ -1,6 +1,6 @@
 # shopify_data_analytics
 
-# Kids Resale Items Analysis Project
+# Shopify Store Items Analysis Project
 
 ## **Creating Insights from a shopify csv dataset.**
 
