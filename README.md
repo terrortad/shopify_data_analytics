@@ -4,7 +4,7 @@
 
 ## **Creating Insights from a shopify csv dataset.**
 
-This project dives into the world of kids' resale items, aiming to extract insights from a comprehensive dataset of over 13,000 rows. By exploring relationships between attributes like brand, condition, item type, and price, we seek to create informed pricing strategies and efficient inventory management.
+This project processes a 13,000+ row csv file, and explores relationships between attributes like brand, condition, item type, and price. The main goal was to create informed pricing strategies and efficient inventory management.
 
 ### ✨ **Files in the Repository** ✨
 
