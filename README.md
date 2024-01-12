@@ -30,7 +30,7 @@ This project extracts data from a 13,000+ row csv file, and explores relationshi
 4. **Witness the app's grand opening in your default web browser.**
 
 **Streamlit App (`app.py`):**
-- Discover tailored results that align with your preferences.
+- View results based on your preferences.
 
 **✨ Visualization Scripts:**
 
